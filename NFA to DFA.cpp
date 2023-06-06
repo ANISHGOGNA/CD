@@ -125,3 +125,5 @@ int main()
     }
     return 0;
 }
+//output
+(a|b)*abb
